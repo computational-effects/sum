@@ -52,5 +52,3 @@ module.exports = {
   Left: Left,
   Right: Right,
 };
-
-console.log('%s', Either.of);
