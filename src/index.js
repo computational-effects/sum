@@ -1,9 +1,9 @@
 'use strict';
 
-var pbp = require('pbp');
-var mixins = require('ce-mixin').mixins;
-var Catamorphism = require('ce-catamorphism').Catamorphism;
-var Stringify = require('ce-stringify').Stringify;
+var pbp = require('@ce/pbp');
+var mixins = require('@ce/mixin').mixins;
+var Catamorphism = require('@ce/catamorphism').Catamorphism;
+var Stringify = require('@ce/stringify').Stringify;
 
 var value = pbp.value;
 var enumerableValue = pbp.enumerableValue;
