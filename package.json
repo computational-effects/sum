@@ -1,5 +1,5 @@
 {
-  "name": "ce-sum",
+  "name": "@ce/sum",
   "version": "1.0.1",
   "description": "Computational effects - sum types",
   "main": "src/index.js",
@@ -17,9 +17,9 @@
   "author": "Hardy Jones <jones3.hardy@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "ce-catamorphism": "^1.0.0",
-    "ce-mixin": "^1.0.2",
-    "ce-stringify": "^1.0.1",
-    "pbp": "^1.0.0"
+    "@ce/catamorphism": "^1.0.0",
+    "@ce/mixin": "^1.0.2",
+    "@ce/stringify": "^1.0.1",
+    "@ce/pbp": "^1.0.0"
   }
 }
